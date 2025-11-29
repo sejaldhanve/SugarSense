@@ -79,3 +79,7 @@ npm install
 ```bash
 npm run dev
 ```
+
+## 🔗 Live Demo
+
+[🚀 **Open SugarSense Live on Vercel**](https://sugarsense-app.vercel.app/)
